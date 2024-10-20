@@ -1,0 +1,1 @@
+Использует Universal Pipeline Renderer
